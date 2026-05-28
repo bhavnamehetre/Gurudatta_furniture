@@ -1,0 +1,44 @@
+body {
+    font-family: Arial;
+    background: #96bf82;
+    background: linear-gradient(rgba(36, 54, 73, 0.4), rgba(197, 145, 145, 0.4)), url(./images/bhavna.jpg) no-repeat center/cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(0,0,0,0.6);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(50, 74, 74);
+}
+
+form {
+    width: 350px;
+    margin: auto;
+    background:rgba(97, 166, 183, 0.4);
+    padding: 20px;
+    border-radius: 5px;
+    filter: blur(0.1px);
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    /* padding: 5px; */
+
+}
+
+input, select, textarea {
+    width: 95%;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 10px;
+    background: #977a66;
+    color: white;
+    border: none;
+}
