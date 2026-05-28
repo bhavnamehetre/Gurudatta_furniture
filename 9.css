@@ -1,0 +1,33 @@
+iname
+{
+    color: red;
+    font-size: large;
+    font-style: italic;
+    /* display: block; */
+    
+}
+iprice
+{
+    color: yellow;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    /* display: block; */
+    
+}
+iqua
+{
+    color:black;
+    font-size:large;
+    font-family: 'Courier New', Courier, monospace;
+    /* display: block; */
+    
+}
+ino
+{
+    display: block;
+    color:black;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+     
+    
+}
