@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movie>
+    <category name="classical">
+        <moviename>Bharat Natya</moviename>
+        <actor>xyz</actor>
+        <year>2015</year>
+    </category>
+        <category name="Horror">
+        <moviename>Atma</moviename>
+        <actor>salman khan</actor>
+        <year>2011</year>
+    </category>
+        <category name="Action">
+        <moviename>Fighter</moviename>
+        <actor>Ritik Roshan</actor>
+        <year>2024</year>
+    </category>
+</movie>
